@@ -168,7 +168,7 @@ openclaw memory-pro stats
 以下為英文原文，方便直接複製傳送給 Bot：
 
 ```text
-Help me connect this memory plugin with the most user-friendly configuration: https://github.com/CortexReach/memory-lancedb-pro
+Help me connect this memory plugin with the most user-friendly configuration: https://github.com/whilyAk3sOn/memory-lancedb-pro
 
 Requirements:
 1. Set it as the only active memory plugin
@@ -722,7 +722,7 @@ v1.1.0 常用 `metadata` 欄位：`l0_abstract`、`l1_overview`、`l2_content`�
 | **生命週期評分** | Weibull 衰減整合到檢索中——高頻和高重要性記憶排名更高。 |
 | **層級管理** | 三級系統（核心 → 工作 → 外圍），自動晉升/降級。 |
 
-回饋：[GitHub Issues](https://github.com/CortexReach/memory-lancedb-pro/issues) · 回退：`npm i memory-lancedb-pro@latest`
+回饋：[GitHub Issues](https://github.com/whilyAk3sOn/memory-lancedb-pro/issues) · 回退：`npm i memory-lancedb-pro@latest`
 
 ---
 
@@ -750,15 +750,15 @@ v1.1.0 常用 `metadata` 欄位：`l0_abstract`、`l1_overview`、`l2_content`�
 <a href="https://github.com/chenjiyong"><img src="https://avatars.githubusercontent.com/u/8199522?v=4" width="48" height="48" alt="@chenjiyong" /></a>
 </p>
 
-Full list: [Contributors](https://github.com/CortexReach/memory-lancedb-pro/graphs/contributors)
+Full list: [Contributors](https://github.com/whilyAk3sOn/memory-lancedb-pro/graphs/contributors)
 
 ## Star History
 
-<a href="https://star-history.com/#CortexReach/memory-lancedb-pro&Date">
+<a href="https://star-history.com/#whilyAk3sOn/memory-lancedb-pro&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CortexReach/memory-lancedb-pro&type=Date&theme=dark&transparent=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CortexReach/memory-lancedb-pro&type=Date&transparent=true" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CortexReach/memory-lancedb-pro&type=Date&transparent=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=whilyAk3sOn/memory-lancedb-pro&type=Date&theme=dark&transparent=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=whilyAk3sOn/memory-lancedb-pro&type=Date&transparent=true" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=whilyAk3sOn/memory-lancedb-pro&type=Date&transparent=true" />
   </picture>
 </a>
 
